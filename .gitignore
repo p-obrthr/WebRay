@@ -1,6 +1,8 @@
 .DS_Store
 main
-web/
+web/node_modules
+web/index.*
+web/package*
 raylib/
 libraylib.a
 libraylib.web.a
